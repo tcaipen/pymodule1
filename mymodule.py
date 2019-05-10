@@ -1,3 +1,3 @@
-foo = 100
+foo = 200
 def hello():
     print("from module.py")
